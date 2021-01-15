@@ -1,8 +1,10 @@
 
 ## Available Scripts
 
-In the project directory, you can run:
+Before run you need run command:
+### `npm install`
 
+In the project directory, you can run:
 ### `gulp`
 
 Runs the app in the development mode.<br />
